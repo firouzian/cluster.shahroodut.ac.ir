@@ -1,4 +1,4 @@
-baseurl = "firouzian.github.io/cluster.shahroodut.ac.ir/public/"
+baseurl = "https://firouzian.github.io/cluster.shahroodut.ac.ir/public/"
 languageCode = "fa-IR"
 title = "کلاستر صالحی"
 theme = "hugo-material-docs"
